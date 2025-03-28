@@ -1,2 +1,2 @@
 # AADAssignment
-  https://sheikhsamira.github.io/AADAssignment/
+  https://sheikhsamira.github.io/AADAssignment
